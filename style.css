@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    width: 70%;
+}
+/*Icon styling and positioning*/
+
+.icon{
+    margin-top: -40px;
+}
