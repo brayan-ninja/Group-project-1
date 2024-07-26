@@ -5,3 +5,6 @@ body{
 nav{
     display: flex;
 }
+.box{
+    width: 100%;
+}
