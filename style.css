@@ -11,7 +11,7 @@ nav{
 .home-page{
     margin-top: -20px;
     padding: 50px 50px;
-    background: brown;
+    background: linear-gradient(100deg, brown , brown, white);
 }
 .btn-explore{
     border: none;
@@ -21,9 +21,15 @@ nav{
 }
 .cord-s div{margin-left: 15px;}
 .card-imf{
-    
-    height: 250px;
+    padding: 20px 20px;
+    min-height: 250px;
     border-radius: 10px ;
     background: white;
  width: 250px;   
+}
+.card-imf .fa-heart-o{
+    float: right;
+}
+.card-imf img{
+    width: 200px;
 }
