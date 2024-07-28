@@ -33,3 +33,13 @@ nav{
 .card-imf img{
     width: 200px;
 }
+.q-link ul li{
+    list-style: none;
+}
+.off{
+    margin-top: 100px;
+}
+.inter img{
+    width: 40px;
+    
+}
