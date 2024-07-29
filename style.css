@@ -43,3 +43,12 @@ nav{
     width: 40px;
     
 }
+footer{
+    padding-bottom: 120px;
+}
+footer ul li {
+    padding-bottom: 10px;
+}
+footer ul .nav-link{
+    padding-bottom: 10px;
+}
